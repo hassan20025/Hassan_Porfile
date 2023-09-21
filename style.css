@@ -157,7 +157,7 @@
     }
     .card-paragraph{
         font-family: 'The Seasons', Regular;
-        font-size: 19px;
+        font-size: 24px;
         width: 80%;
         text-align: center;
     }
@@ -177,6 +177,9 @@
         font-size:19px;
         font-weight: 400;
 
+    }
+    .download-style{
+        text-decoration: none;
     }
     #contact-me{
         background-color: #F2E9E4;
